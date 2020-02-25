@@ -5,19 +5,12 @@ TODO = Not yet done
 ===============================================Released Updates===============================================
 0.5
 *Added the following config options: Spawn Parachest, teleport on every join (including option for dimension id), and teleport on death (including option for dimension id)
-
 *Added Categories for the config file
-
 *Comment out currently not added config option of Teleport player on first join
-
 *Clean up/Fix Formatting
-
 *Added missing registry of ServerHandler class
-
 *Made all resources lowercase
-
 *Added Always Day Time & Always Night Time config options
-
 *Removed GC API packages
 *Update forge to 10.13.4.1614
 
